@@ -7,7 +7,7 @@ expanded.rs
 
 .idea/
 
-# Maven with auto-import, exclude module files
+# Maven with auto-import, exclude all module files
 *.iml
 
 Account-A.pk
